@@ -1,0 +1,35 @@
+Community Internationalization for Billboard Standby Screen
+===========================================================
+
+See http://thp.io/2012/billboard/ for project information
+
+If you want to contribute:
+
+  1. Download the most recent en.ts
+  2. Rename it to XX.ts where XX is the ISO 639-1 code for your language
+     (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+  3. Use Qt Linguist to translate the file
+     (install Qt SDK or use http://code.google.com/p/qtlinguistdownload/)
+  4. Submit the translation as pull request
+
+By submitting the translation you agree to release the translation under the
+ISC license (http://en.wikipedia.org/wiki/ISC_license):
+
+    Copyright (c) 2013 <Your Name>
+
+    Permission to use, copy, modify, and/or distribute this software for any
+    purpose with or without fee is hereby granted, provided that the above
+    copyright notice and this permission notice appear in all copies.
+
+    THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+    WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+    MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+    SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+    WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+    ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
+    IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+As Billboard is closed source at the moment, this will allow usage of the
+translations in Billboard right now, as well as allow the translation to be
+used when Billboard is open sourced at some point in the future.
+
