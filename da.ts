@@ -90,27 +90,27 @@
     <message>
         <location filename="../billboard-ui.qml" line="161"/>
         <source>Day of month</source>
-        <translation type="unfinished"></translation>
+        <translation>Dag i måned</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="162"/>
         <source>Month name</source>
-        <translation type="unfinished"></translation>
+        <translation>Navn på måned</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="163"/>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Måned</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="164"/>
         <source>Year</source>
-        <translation type="unfinished"></translation>
+        <translation>År</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="165"/>
         <source>Week number</source>
-        <translation type="unfinished"></translation>
+        <translation>Uge nummer</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="167"/>
@@ -125,7 +125,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="169"/>
         <source>Song &quot;Artist - Title&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Sang &quot;Kunstner - Titel&quot;</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="174"/>
@@ -200,47 +200,47 @@
     <message>
         <location filename="../billboard-ui.qml" line="192"/>
         <source>IM presence status</source>
-        <translation type="unfinished"></translation>
+        <translation>IM tilstedeværelses status</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="193"/>
         <source>Wazapp online status</source>
-        <translation type="unfinished"></translation>
+        <translation>Wazapp online status</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="195"/>
         <source>USSD Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>USSD Balance</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="196"/>
         <source>USSD Balance (2nd line)</source>
-        <translation type="unfinished"></translation>
+        <translation>USSD Balance (2. linie)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="197"/>
         <source>USSD Balance (3rd line)</source>
-        <translation type="unfinished"></translation>
+        <translation>USSD Balance (3. linie)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="199"/>
         <source>Brackets: {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Klammer: {}</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="200"/>
         <source>Brackets: {{}}</source>
-        <translation type="unfinished"></translation>
+        <translation>Klammer: {{}}</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="201"/>
         <source>Embed image: &lt;&lt;&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Indlejret billede: &lt;&lt;&gt;&gt;</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="202"/>
         <source>Embed image (dithered): &lt;&lt;#&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Indlejret billede (mønstret): &lt;&lt;#&gt;&gt;</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="216"/>
@@ -260,12 +260,12 @@
     <message>
         <location filename="../billboard-ui.qml" line="223"/>
         <source>Default with song</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard med sang</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="224"/>
         <source>Full device status</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle enheds informationer</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="225"/>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="375"/>
         <source>Show useful information in the low power mode screen.</source>
-        <translation type="unfinished">Vis brugbar information i skærmen når der er valgt spare funktion</translation>
+        <translation>Vis information på skærmen når spare funktionen er valgt.</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="377"/>
@@ -420,12 +420,12 @@
     <message>
         <location filename="../billboard-ui.qml" line="383"/>
         <source>Insert &quot;No song&quot; when no song is selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsæt &quot;Ingen sang&quot; når der ingen sang er valgt</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="384"/>
         <source>Insert the current date (short format)</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsæt dagsdato (kort format)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="386"/>
@@ -435,12 +435,12 @@
     <message>
         <location filename="../billboard-ui.qml" line="387"/>
         <source>Insert output of &quot;uptime&quot; command</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsæt resultatet af &quot;uptime&quot; kommandoen</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="388"/>
         <source>Insert output of &quot;/home/user/test.py&quot; script</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsæt resultatet af &quot;/home/user/test.py&quot; scriptet</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="389"/>
@@ -460,12 +460,13 @@
     <message>
         <location filename="../billboard-ui.qml" line="392"/>
         <source>Insert image (with dithering)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Dithering does not have direct danish translation</translatorcomment>
+        <translation>Indsæt billede (med mønster)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="394"/>
         <source>Author: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Forfatter: %1</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="396"/>
@@ -478,22 +479,22 @@
     <message>
         <location filename="../store-description.qml" line="7"/>
         <source>Billboard Standby Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Billboard Standby Skærm</translation>
     </message>
     <message>
         <location filename="../store-description.qml" line="14"/>
         <source>Display the current date, battery level, current song, internet connection information and more on your N9&apos;s standby screen - easy customization!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis dagsdato, batterikapacitet, den nuværende sang der afspilles, internet forbindelses information og meget mere på standby skærmen - nemme indstillings muligheder!</translation>
     </message>
     <message>
         <location filename="../store-description.qml" line="15"/>
         <source>After the initial installation, you have to restart your N9 for configuration changes to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Efter installationen første gang, er en genstart af din Nokia N9 telefon nødvendig for at konfigurations ændringerne virker.</translation>
     </message>
     <message>
         <location filename="../store-description.qml" line="16"/>
         <source>Problems? Please e-mail %1 - we&apos;re here to help!</source>
-        <translation>Problemer ? Vi er her for at hjælpe, så send en e-mail til %1</translation>
+        <translation>Problemer ? Senden e-mail til %1 - vi er her for at hjælpe!</translation>
     </message>
 </context>
 </TS>
