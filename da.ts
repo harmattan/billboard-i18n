@@ -395,17 +395,17 @@
     <message>
         <location filename="../billboard-ui.qml" line="378"/>
         <source>Insert property</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsæt indstilling</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="379"/>
         <source>Insert &quot;text&quot; when property is not empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsæt &quot;tekst&quot; når indstilling ikke er tom</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="380"/>
         <source>Insert &quot;text&quot; when property is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsæt &quot;tekst&quot; når indstilling er tom</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="382"/>
