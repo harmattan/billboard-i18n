@@ -36,7 +36,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="109"/>
         <source>Appearance</source>
-        <translation type="unfinished">图形</translation>
+        <translation type="unfinished">图形外观</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="113"/>
@@ -175,7 +175,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="185"/>
         <source>Today&apos;s events</source>
-        <translation type="unfinished">今天的事件</translation>
+        <translation type="unfinished">今日事件</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="187"/>
@@ -435,32 +435,32 @@
     <message>
         <location filename="../billboard-ui.qml" line="387"/>
         <source>Insert output of &quot;uptime&quot; command</source>
-        <translation type="unfinished">插入正常运行时间 &quot;uptime&quot; 命令</translation>
+        <translation type="unfinished">插入自定义脚本命令</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="388"/>
         <source>Insert output of &quot;/home/user/test.py&quot; script</source>
-        <translation type="unfinished">插入正常运行时间的脚本：&quot;/home/user/test.py&quot;</translation>
+        <translation type="unfinished">插入自定义脚本test.py的输出(/home/user/test.py)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="389"/>
         <source>Use a color name (%1) to set the inline color</source>
-        <translation type="unfinished">使用颜色功能调整各项 inline 颜色(%1)</translation>
+        <translation type="unfinished">使用颜色功能调整各项行内文字颜色(%1)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="390"/>
         <source>Reset the inline color to the default color</source>
-        <translation type="unfinished">恢复各项inline为默认颜色</translation>
+        <translation type="unfinished">恢复各项行内文字为默认颜色</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="391"/>
         <source>Insert image (normal)</source>
-        <translation type="unfinished">插入图片(普通模式)</translation>
+        <translation type="unfinished">插入图片(标准模式)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="392"/>
         <source>Insert image (with dithering)</source>
-        <translation type="unfinished">插入图片(抖动模式)</translation>
+        <translation type="unfinished">插入图片(活动模式)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="394"/>
@@ -478,22 +478,22 @@
     <message>
         <location filename="../store-description.qml" line="7"/>
         <source>Billboard Standby Screen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Billboard待机屏幕</translation>
     </message>
     <message>
         <location filename="../store-description.qml" line="14"/>
         <source>Display the current date, battery level, current song, internet connection information and more on your N9&apos;s standby screen - easy customization!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">轻松定制N9的待机屏幕.如显示当前日期,电量信息,当前正在播放歌曲,网络链接.</translation>
     </message>
     <message>
         <location filename="../store-description.qml" line="15"/>
         <source>After the initial installation, you have to restart your N9 for configuration changes to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">安装初始化后,您需要重启您的N9,以使配置生效.</translation>
     </message>
     <message>
         <location filename="../store-description.qml" line="16"/>
         <source>Problems? Please e-mail %1 - we&apos;re here to help!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用中发现问题? 请电邮到此处 %1 获取帮助</translation>
     </message>
 </context>
 </TS>
