@@ -6,7 +6,7 @@ See http://thp.io/2012/billboard/ for project information
 If you want to contribute:
 
   1. Download the most recent en.ts
-  2. Rename it to XX.ts where XX is the ISO 639-1 code for your language
+  2. Copy the file as XX.ts where XX is the ISO 639-1 code for your language
      (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
   3. Use Qt Linguist to translate the file
      (install Qt SDK or use http://code.google.com/p/qtlinguistdownload/)
