@@ -41,25 +41,25 @@
     <message>
         <location filename="../billboard-ui.qml" line="113"/>
         <source>Show other logos</source>
-        <translation>mostra altri loghi</translation>
+        <translation>Mostra altri loghi</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="119"/>
         <location filename="../billboard-ui.qml" line="235"/>
         <source>Text color</source>
-        <translation>Colore del testo</translation>
+        <translation>Colore testo</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="126"/>
         <location filename="../billboard-ui.qml" line="256"/>
         <source>Text size</source>
-        <translation>Dimensione del testo</translation>
+        <translation>Dimensione testo</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="133"/>
         <location filename="../billboard-ui.qml" line="277"/>
         <source>Font family</source>
-        <translation>Carattere del testo</translation>
+        <translation>Carattere testo</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="140"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="152"/>
         <source>Insert new field</source>
-        <translation>Inserisci nuovo campo</translation>
+        <translation>Inserisci nuovo elemento</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="157"/>
@@ -215,12 +215,12 @@
     <message>
         <location filename="../billboard-ui.qml" line="196"/>
         <source>USSD Balance (2nd line)</source>
-        <translation>USSD Balance (1a linea)</translation>
+        <translation>USSD Balance (2a linea)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="197"/>
         <source>USSD Balance (3rd line)</source>
-        <translation>USSD Balance (2a linea)</translation>
+        <translation>USSD Balance (3a linea)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="199"/>
@@ -230,7 +230,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="200"/>
         <source>Brackets: {{}}</source>
-        <translation>Parentesi: {{}}</translation>
+        <translation>Doppie parentesi: {{}}</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="201"/>
@@ -260,7 +260,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="223"/>
         <source>Default with song</source>
-        <translation>Default con canzone</translation>
+        <translation>Default con brano</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="224"/>
@@ -435,32 +435,32 @@
     <message>
         <location filename="../billboard-ui.qml" line="387"/>
         <source>Insert output of &quot;uptime&quot; command</source>
-        <translation>Inserisci output di &quot;uptime&quot;</translation>
+        <translation>Inserisce output del comando &quot;uptime&quot;</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="388"/>
         <source>Insert output of &quot;/home/user/test.py&quot; script</source>
-        <translation>Inserisci output dello &quot;/home/user/test.py&quot; script</translation>
+        <translation>Inserisce output dello script &quot;/home/user/test.py&quot;</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="389"/>
         <source>Use a color name (%1) to set the inline color</source>
-        <translation>Usare il nome di un colore (%1) per impostare il colore nella linea</translation>
+        <translation>Usa il nome di un colore (%1) per impostare quel colore nella linea</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="390"/>
         <source>Reset the inline color to the default color</source>
-        <translation>Reset colori nelle linee al colore di default</translation>
+        <translation>Reset colori nella linea al colore di default</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="391"/>
         <source>Insert image (normal)</source>
-        <translation>Inserisci immagine (normale)</translation>
+        <translation>Inserisce immagine (normale)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="392"/>
         <source>Insert image (with dithering)</source>
-        <translation>Inserisci immagine (dithering)</translation>
+        <translation>Inserisce immagine (dithering)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="394"/>
