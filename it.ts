@@ -250,7 +250,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="221"/>
         <source>Default</source>
-        <translation>Impostazione defaulf</translation>
+        <translation>Impostazione default</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="222"/>
@@ -435,12 +435,12 @@
     <message>
         <location filename="../billboard-ui.qml" line="387"/>
         <source>Insert output of &quot;uptime&quot; command</source>
-        <translation>Inserisce output del comando &quot;uptime&quot;</translation>
+        <translation>Inserisci output del comando &quot;uptime&quot;</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="388"/>
         <source>Insert output of &quot;/home/user/test.py&quot; script</source>
-        <translation>Inserisce output dello script &quot;/home/user/test.py&quot;</translation>
+        <translation>Inserisci output dello script &quot;/home/user/test.py&quot;</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="389"/>
@@ -455,12 +455,12 @@
     <message>
         <location filename="../billboard-ui.qml" line="391"/>
         <source>Insert image (normal)</source>
-        <translation>Inserisce immagine (normale)</translation>
+        <translation>Inserisci immagine (normale)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="392"/>
         <source>Insert image (with dithering)</source>
-        <translation>Inserisce immagine (dithering)</translation>
+        <translation>Inserisci immagine (dithering)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="394"/>
@@ -483,7 +483,7 @@
     <message>
         <location filename="../store-description.qml" line="14"/>
         <source>Display the current date, battery level, current song, internet connection information and more on your N9&apos;s standby screen - easy customization!</source>
-        <translation>Mostra sullo stand-by screen: data, carica della batteria, canzone in riproduzione, info sulla connessione e molto altro, con una semplice configurazione!</translation>
+        <translation>Mostra sullo standby screen: data, carica della batteria, canzone in riproduzione, info sulla connessione e molto altro, con una semplice configurazione!</translation>
     </message>
     <message>
         <location filename="../store-description.qml" line="15"/>
