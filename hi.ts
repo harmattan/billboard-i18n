@@ -47,25 +47,25 @@
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="119"/>
-        <location filename="../billboard-ui.qml" line="235"/>
+        <location filename="../billboard-ui.qml" line="239"/>
         <source>Text color</source>
         <translation>पाठ का रंग </translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="126"/>
-        <location filename="../billboard-ui.qml" line="256"/>
+        <location filename="../billboard-ui.qml" line="260"/>
         <source>Text size</source>
         <translation>पाठ का माप </translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="133"/>
-        <location filename="../billboard-ui.qml" line="277"/>
+        <location filename="../billboard-ui.qml" line="281"/>
         <source>Font family</source>
         <translation>फ़ॉन्ट परिवार</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="140"/>
-        <location filename="../billboard-ui.qml" line="294"/>
+        <location filename="../billboard-ui.qml" line="298"/>
         <source>Text alignment</source>
         <translation>पाठ पंक्तिबद्ध </translation>
     </message>
@@ -101,384 +101,399 @@
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="163"/>
+        <source>Short month name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../billboard-ui.qml" line="164"/>
         <source>Month</source>
         <translation>महिना</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="164"/>
+        <location filename="../billboard-ui.qml" line="165"/>
         <source>Year</source>
         <translation>साल</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="165"/>
+        <location filename="../billboard-ui.qml" line="166"/>
         <source>Week number</source>
         <translation>सप्ताह नंबर</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="167"/>
+        <location filename="../billboard-ui.qml" line="168"/>
         <source>Song artist</source>
         <translation>गीत कलाकार</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="168"/>
+        <location filename="../billboard-ui.qml" line="169"/>
         <source>Song title</source>
         <translation>गीत शीर्षक</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="169"/>
+        <location filename="../billboard-ui.qml" line="170"/>
         <source>Song &quot;Artist - Title&quot;</source>
         <translation>गीत &quot;कलाकार - शीर्षक&quot;</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="174"/>
+        <location filename="../billboard-ui.qml" line="175"/>
         <source>Cell network name</source>
         <translation>सेल नेटवर्क का नाम</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="175"/>
+        <location filename="../billboard-ui.qml" line="176"/>
         <source>Internet connection</source>
         <translation>अंतरजाल कनेक्शन</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="176"/>
+        <location filename="../billboard-ui.qml" line="177"/>
         <source>IP address</source>
         <translation>आईपी पता </translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="178"/>
+        <location filename="../billboard-ui.qml" line="179"/>
+        <source>Signal strength</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../billboard-ui.qml" line="180"/>
+        <source>Signal strength (bars)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../billboard-ui.qml" line="182"/>
         <source>Battery charge (text)</source>
         <translation>बैटरी चार्ज (पाठ)</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="179"/>
+        <location filename="../billboard-ui.qml" line="183"/>
         <source>Battery charge (bar)</source>
         <translation>बैटरी चार्ज (पट्टी)</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="180"/>
+        <location filename="../billboard-ui.qml" line="184"/>
         <source>Battery charge (icon)</source>
         <translation>बैटरी चार्ज (प्रतीक)</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="181"/>
+        <location filename="../billboard-ui.qml" line="185"/>
         <source>Colored battery bar</source>
         <translation>रंगीन बैटरी पट्टी</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="182"/>
+        <location filename="../billboard-ui.qml" line="186"/>
         <source>Active profile</source>
         <translation>सक्रिय प्रोफाइल</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="184"/>
+        <location filename="../billboard-ui.qml" line="188"/>
         <source>Upcoming events</source>
         <translation>आने वाले कार्यक्रम</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="185"/>
+        <location filename="../billboard-ui.qml" line="189"/>
         <source>Today&apos;s events</source>
         <translation>आज के कार्यक्रम</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="187"/>
+        <location filename="../billboard-ui.qml" line="191"/>
         <source>MeeCast station</source>
         <translatorcomment>Meecast transliterated</translatorcomment>
         <translation>मीकास्ट नगर</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="188"/>
+        <location filename="../billboard-ui.qml" line="192"/>
         <source>MeeCast temperature</source>
         <translation>मीकास्ट तापमान</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="189"/>
+        <location filename="../billboard-ui.qml" line="193"/>
         <source>MeeCast description</source>
         <translation>मीकास्ट वर्णन</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="190"/>
+        <location filename="../billboard-ui.qml" line="194"/>
         <source>MeeCast icon</source>
         <translation>मीकास्ट प्रतीक</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="192"/>
+        <location filename="../billboard-ui.qml" line="196"/>
         <source>IM presence status</source>
         <translation>आईएम उपस्थिति स्थिति</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="193"/>
+        <location filename="../billboard-ui.qml" line="197"/>
         <source>Wazapp online status</source>
         <translatorcomment>Wazzap transliterated</translatorcomment>
         <translation>वाज्ज़प ऑनलाइन स्थिति</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="195"/>
+        <location filename="../billboard-ui.qml" line="199"/>
         <source>USSD Balance</source>
         <translatorcomment>यु-एस-एस-डी शेष</translatorcomment>
         <translation></translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="196"/>
+        <location filename="../billboard-ui.qml" line="200"/>
         <source>USSD Balance (2nd line)</source>
         <translation>यु-एस-एस-डी शेष (२-पंक्ति)</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="197"/>
+        <location filename="../billboard-ui.qml" line="201"/>
         <source>USSD Balance (3rd line)</source>
         <translation>यु-एस-एस-डी शेष (३-पंक्ति)</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="199"/>
+        <location filename="../billboard-ui.qml" line="203"/>
         <source>Brackets: {}</source>
         <translation>ब्रेकेट: {}</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="200"/>
+        <location filename="../billboard-ui.qml" line="204"/>
         <source>Brackets: {{}}</source>
         <translation>ब्रेकेट: {{}}</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="201"/>
+        <location filename="../billboard-ui.qml" line="205"/>
         <source>Embed image: &lt;&lt;&gt;&gt;</source>
         <translation>बिंब बैठाओ: &lt;&lt;&gt;&gt;</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="202"/>
+        <location filename="../billboard-ui.qml" line="206"/>
         <source>Embed image (dithered): &lt;&lt;#&gt;&gt;</source>
         <translation>बिंब बैठाओ (डिथर्ड): &lt;&lt;#&gt;&gt;</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="216"/>
+        <location filename="../billboard-ui.qml" line="220"/>
         <source>Select preset</source>
         <translatorcomment>Translated as Choose from preset </translatorcomment>
         <translation>पूर्वनिश्चित से चुनो </translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="221"/>
+        <location filename="../billboard-ui.qml" line="225"/>
         <source>Default</source>
         <translation>डिफ़ॉल्ट</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="222"/>
+        <location filename="../billboard-ui.qml" line="226"/>
         <source>Empty</source>
         <translation>खाली</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="223"/>
+        <location filename="../billboard-ui.qml" line="227"/>
         <source>Default with song</source>
         <translation>डिफ़ॉल्ट गीत के साथ</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="224"/>
+        <location filename="../billboard-ui.qml" line="228"/>
         <source>Full device status</source>
         <translation>पूरा उपकरण की स्थिति</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="225"/>
+        <location filename="../billboard-ui.qml" line="229"/>
         <source>Date, battery and song (icons)</source>
         <translation>तारीक, बैटरी और गीत (प्रतीक)</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="240"/>
+        <location filename="../billboard-ui.qml" line="244"/>
         <source>White</source>
         <translation>सफ़ेद</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="241"/>
+        <location filename="../billboard-ui.qml" line="245"/>
         <source>Red</source>
         <translation>लाल</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="242"/>
+        <location filename="../billboard-ui.qml" line="246"/>
         <source>Green</source>
         <translation>हरा</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="243"/>
+        <location filename="../billboard-ui.qml" line="247"/>
         <source>Blue</source>
         <translation>नीला</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="244"/>
+        <location filename="../billboard-ui.qml" line="248"/>
         <source>Yellow</source>
         <translation>पीला</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="245"/>
+        <location filename="../billboard-ui.qml" line="249"/>
         <source>Cyan</source>
         <translation>हरिताभ नीला</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="246"/>
+        <location filename="../billboard-ui.qml" line="250"/>
         <source>Magenta</source>
         <translation>गहरा गुलाबी रंग</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="261"/>
+        <location filename="../billboard-ui.qml" line="265"/>
         <source>Smaller</source>
         <translation>और छोटा</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="262"/>
+        <location filename="../billboard-ui.qml" line="266"/>
         <source>Small</source>
         <translation>छोटा</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="263"/>
+        <location filename="../billboard-ui.qml" line="267"/>
         <source>Normal</source>
         <translation>साधारण</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="264"/>
+        <location filename="../billboard-ui.qml" line="268"/>
         <source>Big</source>
         <translation>बड़ा</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="265"/>
+        <location filename="../billboard-ui.qml" line="269"/>
         <source>Bigger</source>
         <translation>और बड़ा</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="266"/>
+        <location filename="../billboard-ui.qml" line="270"/>
         <source>Very big</source>
         <translation>बहुत बड़ा</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="267"/>
+        <location filename="../billboard-ui.qml" line="271"/>
         <source>Crazy big</source>
         <translation>पगलाई बड़ा</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="282"/>
+        <location filename="../billboard-ui.qml" line="286"/>
         <source>Pure</source>
         <translatorcomment>Transliteration</translatorcomment>
         <translation>प्युर</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="283"/>
+        <location filename="../billboard-ui.qml" line="287"/>
         <source>Sans</source>
         <translatorcomment>Transliteration</translatorcomment>
         <translation>सैंस</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="284"/>
+        <location filename="../billboard-ui.qml" line="288"/>
         <source>Monospace</source>
         <translatorcomment>Transliteration</translatorcomment>
         <translation>मोनोस्पेस</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="299"/>
+        <location filename="../billboard-ui.qml" line="303"/>
         <source>Left</source>
         <translation>बाएं</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="300"/>
+        <location filename="../billboard-ui.qml" line="304"/>
         <source>Right</source>
         <translation>दाहिने</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="301"/>
+        <location filename="../billboard-ui.qml" line="305"/>
         <source>Center</source>
         <translation>बीच</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="313"/>
+        <location filename="../billboard-ui.qml" line="317"/>
         <source>Get more apps</source>
         <translation>और एप पाओ</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="321"/>
+        <location filename="../billboard-ui.qml" line="325"/>
         <source>Help / About</source>
         <translation>सहाय / के बारे में</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="375"/>
+        <location filename="../billboard-ui.qml" line="379"/>
         <source>Show useful information in the low power mode screen.</source>
         <translation>कम बिज्लिधारी स्क्रीन पर फायदेमंद जानकारी दिखाए.</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="377"/>
+        <location filename="../billboard-ui.qml" line="381"/>
         <source>Syntax information:</source>
         <translation>सिन्टैक्स जानकारी:</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="378"/>
+        <location filename="../billboard-ui.qml" line="382"/>
         <source>Insert property</source>
         <translation>गुण प्रविष्ट करें</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="379"/>
+        <location filename="../billboard-ui.qml" line="383"/>
         <source>Insert &quot;text&quot; when property is not empty</source>
         <translation>जब गुण खली न हो तब &quot;पाठ&quot; प्रविष्ट करें</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="380"/>
+        <location filename="../billboard-ui.qml" line="384"/>
         <source>Insert &quot;text&quot; when property is empty</source>
         <translation>जब गुण खली हो तब &quot;पाठ&quot; प्रविष्ट करें</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="382"/>
+        <location filename="../billboard-ui.qml" line="386"/>
         <source>Examples:</source>
         <translation>उदाहरण:</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="383"/>
+        <location filename="../billboard-ui.qml" line="387"/>
         <source>No song</source>
         <translation>कोई गीत नहीं</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="383"/>
+        <location filename="../billboard-ui.qml" line="387"/>
         <source>Insert &quot;No song&quot; when no song is selected</source>
         <translation>गीत चयन न होने पर &quot;कोई गीत नहीं&quot; प्रविष्ट करें</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="384"/>
+        <location filename="../billboard-ui.qml" line="388"/>
         <source>Insert the current date (short format)</source>
         <translation>वर्तमान तारीक प्रविष्ट करें (संक्षिप्त फ़ॉर्मेट)</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="386"/>
+        <location filename="../billboard-ui.qml" line="390"/>
         <source>Advanced features:</source>
         <translation>उन्नत विशेषताएं:</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="387"/>
+        <location filename="../billboard-ui.qml" line="391"/>
         <source>Insert output of &quot;uptime&quot; command</source>
         <translation>&quot;uptime&quot; आदेश का आउटपुट प्रविष्ट कर</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="388"/>
+        <location filename="../billboard-ui.qml" line="392"/>
         <source>Insert output of &quot;/home/user/test.py&quot; script</source>
         <translation>&quot;/home/user/test.py&quot; स्क्रिप्ट का आउटपुट प्रविष्ट कर</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="389"/>
+        <location filename="../billboard-ui.qml" line="393"/>
         <source>Use a color name (%1) to set the inline color</source>
         <translation>भीतरी रंग सेट करने के लिए रंग का नाम (%1) उपयोग करें </translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="390"/>
+        <location filename="../billboard-ui.qml" line="394"/>
         <source>Reset the inline color to the default color</source>
         <translation>भीतरी रंग को डिफ़ॉल्ट रंग पे वापसी </translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="391"/>
+        <location filename="../billboard-ui.qml" line="395"/>
         <source>Insert image (normal)</source>
         <translation>बिंब सन्निवेश (साधारण)</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="392"/>
+        <location filename="../billboard-ui.qml" line="396"/>
         <source>Insert image (with dithering)</source>
         <translatorcomment>Dithering is transliterated</translatorcomment>
         <translation>बिंब सन्निवेश (दिठेरिंग के साथ)</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="394"/>
+        <location filename="../billboard-ui.qml" line="398"/>
         <source>Author: %1</source>
         <translation>निर्माता: %1</translation>
     </message>
     <message>
-        <location filename="../billboard-ui.qml" line="396"/>
+        <location filename="../billboard-ui.qml" line="400"/>
         <source>For support, please contact %1</source>
         <translation>समर्थन के लिए, कृप्या %1 पे संपर्क करें </translation>
     </message>
