@@ -100,7 +100,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="163"/>
         <source>Short month name</source>
-        <translation type="unfinished"></translation>
+        <translation>Короткое название месяца</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="164"/>
@@ -150,12 +150,12 @@
     <message>
         <location filename="../billboard-ui.qml" line="179"/>
         <source>Signal strength</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень сигнала</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="180"/>
         <source>Signal strength (bars)</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень сигнала (бар)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="182"/>
@@ -215,7 +215,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="196"/>
         <source>IM presence status</source>
-        <translation></translation>
+        <translation>Статус IM</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="197"/>
