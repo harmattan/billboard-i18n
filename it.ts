@@ -100,7 +100,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="163"/>
         <source>Short month name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome del mese in breve</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="164"/>
@@ -150,12 +150,12 @@
     <message>
         <location filename="../billboard-ui.qml" line="179"/>
         <source>Signal strength</source>
-        <translation type="unfinished"></translation>
+        <translation>Forza del segnale</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="180"/>
         <source>Signal strength (bars)</source>
-        <translation type="unfinished"></translation>
+        <translation>Forza del segnale (barre)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="182"/>
