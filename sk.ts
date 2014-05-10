@@ -100,7 +100,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="163"/>
         <source>Short month name</source>
-        <translation type="unfinished"></translation>
+        <translation>Krátky názov mesiaca</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="164"/>
@@ -150,12 +150,12 @@
     <message>
         <location filename="../billboard-ui.qml" line="179"/>
         <source>Signal strength</source>
-        <translation type="unfinished"></translation>
+        <translation>Sila signálu</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="180"/>
         <source>Signal strength (bars)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sila signálu (paličky)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="182"/>
@@ -485,7 +485,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="400"/>
         <source>For support, please contact %1</source>
-        <translation>Pre podporu, prosím kontaktujte nás na %1</translation>
+        <translation>Pre podporu, prosím, kontaktujte nás na %1</translation>
     </message>
 </context>
 <context>
@@ -498,17 +498,17 @@
     <message>
         <location filename="../store-description.qml" line="14"/>
         <source>Display the current date, battery level, current song, internet connection information and more on your N9&apos;s standby screen - easy customization!</source>
-        <translation>Zobrazí informácie ako sú aktuálny dátum, úroveň batérie, aktuálna skladba, internetové pripojenie a ďalšie na obrazovke pohotovostného režimu Vašej N9 - ľahké prispôsobenie!</translation>
+        <translation>Zobrazí informácie ako sú aktuálny dátum, úroveň batérie, aktuálna skladba, internetové pripojenie a ďalšie na obrazovke pohotovostného režimu vašej N9 - ľahké prispôsobenie!</translation>
     </message>
     <message>
         <location filename="../store-description.qml" line="15"/>
         <source>After the initial installation, you have to restart your N9 for configuration changes to take effect.</source>
-        <translation>Po počiatočnej inštalácii musíte reštartovať Vašu N9, aby sa prejavili zmeny v konfigurácii.</translation>
+        <translation>Po počiatočnej inštalácii musíte reštartovať vašu N9, aby sa prejavili zmeny v konfigurácii.</translation>
     </message>
     <message>
         <location filename="../store-description.qml" line="16"/>
         <source>Problems? Please e-mail %1 - we&apos;re here to help!</source>
-        <translation>Problémy? Prosím kontaktujte nás na e-mail %1 - sme tu, aby sme Vám pomohli!</translation>
+        <translation>Problémy? Prosím, kontaktujte nás na e-mail %1 - sme tu, aby sme vám pomohli!</translation>
     </message>
 </context>
 </TS>
