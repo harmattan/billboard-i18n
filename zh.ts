@@ -100,7 +100,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="163"/>
         <source>Short month name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">月份名(简写)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="164"/>
@@ -150,12 +150,12 @@
     <message>
         <location filename="../billboard-ui.qml" line="179"/>
         <source>Signal strength</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">信号强度</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="180"/>
         <source>Signal strength (bars)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">信号强度(条形)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="182"/>
@@ -195,7 +195,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="191"/>
         <source>MeeCast station</source>
-        <translation type="unfinished">MeeCast 预报地区</translation>
+        <translation type="unfinished">MeeCast 天气预报</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="192"/>
